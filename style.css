@@ -1,0 +1,14 @@
+body {
+  color: #373a3c;
+}
+#user-input {
+  width: 7vw;
+}
+#dropdownMenuButton1 {
+  background-color: #e6e6e6;
+  border-color: #cccccc;
+  color: #373a3c;
+}
+.dropdown-item {
+  cursor: pointer;
+}
